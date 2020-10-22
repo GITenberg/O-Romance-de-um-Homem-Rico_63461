@@ -1,0 +1,49 @@
+_repo: O-Romance-de-um-Homem-Rico_63461
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Ribeiro, Tomás
+    aliases:
+    - Ribeiro, Thomaz
+    - Ribeiro, Thomas
+    - Ribeiro, Tomaz
+    - Ribeiro, Tomas
+    birthdate: 1831
+    deathdate: 1901
+    gutenberg_agent_id: '52458'
+    url: http://www.gutenberg.org/2009/agents/52458
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Tom%C3%A1s_Ribeiro
+    - https://pt.wikipedia.org/wiki/Tom%C3%A1s_Ribeiro
+creator:
+  author:
+    agent_name: Castelo Branco, Camilo
+    aliases:
+    - Branco, Camilo Ferreira Botelho Castelo
+    - Correia Botelho, Camillo Castello Branco, visconde de
+    - Correa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Corrêa Botelho, Camillo Ferreira Botelho Castello Branco, visconde de
+    - Botelho Castelo Branco, Camilo Ferreira
+    - Branco, Camilo Castelo
+    birthdate: 1825
+    deathdate: 1890
+    gutenberg_agent_id: '6699'
+    url: http://www.gutenberg.org/2009/agents/6699
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
+    - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
+description: ''
+gutenberg_issued: '2020-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63461'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: O Romance de um Homem Rico
+url: http://www.gutenberg.org/ebooks/63461
