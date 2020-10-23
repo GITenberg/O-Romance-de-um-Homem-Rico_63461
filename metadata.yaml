@@ -1,5 +1,5 @@
 _repo: O-Romance-de-um-Homem-Rico_63461
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Ribeiro, Tomás
@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Tom%C3%A1s_Ribeiro
     - https://pt.wikipedia.org/wiki/Tom%C3%A1s_Ribeiro
+covers:
+- cover_type: archival
+  image_path: 63461-h/images/homem_cover.jpg
 creator:
   author:
     agent_name: Castelo Branco, Camilo
@@ -33,6 +36,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63461#O-Romance-de-um-Homem-Rico
 gutenberg_issued: '2020-10-14'
 gutenberg_type: Text
 identifiers:
